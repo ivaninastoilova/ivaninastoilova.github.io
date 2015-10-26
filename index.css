@@ -1,0 +1,44 @@
+*
+{
+font-family: Trebuchet MS;
+}
+header
+{
+	background-image: url(http://zenteaching.com/wp-content/uploads/2010/07/header.jpg);
+	color: black;
+}
+
+.nav li
+{ 
+ display: inline-block;
+ padding: 0px 50px 50px 50px;
+}
+
+h1 
+{
+      font-size: 100px;
+    }
+a
+ {
+ 	color:black;
+ }
+
+ #dogs
+ {
+ 	padding: 10px;
+ }
+
+ #dogs ul
+ {
+ 	display: inline;
+ }
+
+ #cats
+ {
+ 	padding: 10px;
+ }
+
+ #cats ul
+ {
+ 	display: inline;
+ }
